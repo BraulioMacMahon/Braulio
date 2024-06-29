@@ -1,0 +1,7 @@
+1. Abrir projecto no vscode
+2. no terminal do vscode rodar o comando -> Scripts/activate.ps1 
+3. executar o seguinte comando no terminal -> pip install -r requirements.txt
+4. abrir navegar para a pasta myapp -> cd myapp
+5. rodar o comando -> fastapi dev 
+A api está rodando em http://127.0.0.1:8000/
+A documentação dos endpoints estarão em http://127.0.0.1:8000/docs
